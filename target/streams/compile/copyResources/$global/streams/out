@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\aleks\mytestproject\conf\application.conf,C:\Users\aleks\mytestproject\target\scala-2.12\classes\application.conf)
+[debug] 	(C:\Users\aleks\mytestproject\conf\logback.xml,C:\Users\aleks\mytestproject\target\scala-2.12\classes\logback.xml)
+[debug] 	(C:\Users\aleks\mytestproject\conf\routes,C:\Users\aleks\mytestproject\target\scala-2.12\classes\routes)
